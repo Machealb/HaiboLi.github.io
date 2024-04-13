@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://ms.unimelb.edu.au/'>School of Mathematics and Statistics, The University of Melbourne</a>
+subtitle: <a href='https://ms.unimelb.edu.au/'> School of Mathematics and Statistics, The University of Melbourne </a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> G82 </p>
-    <p> Swanston Street</p>
-    <p> Melbourne, Victoria 3010 </p>
+    <p> G82, Peter Hall Building (160) </p>
+    <p> Swanston Street </p>
+    <p> Melbourne, Victoria 3010 Australia </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
