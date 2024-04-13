@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://ms.unimelb.edu.au/'>School of Mathematics and Statistics, The University of Melbourne</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://ms.unimelb.edu.au/'>School of Mathematics and Statistics, The University of Melbourne</a>
 
 profile:
   align: right
-  image: profile.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> G82 </p>
