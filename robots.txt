@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://machealb.github.io/haiboli.github.io//sitemap.xml
+Sitemap: https://machealb.github.io//sitemap.xml
