@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://ms.unimelb.edu.au/'>School of Mathematics and Statistics, The University of Melbourne</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
