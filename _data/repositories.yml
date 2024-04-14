@@ -4,5 +4,5 @@ github_users:
 github_repos:
   - Machealb/InverProb_IterSolver
   - Machealb/gsvd_iter 
-  - Lower_precision_solver 
+  - Machealb/Lower_precision_solver 
   - feilumath/iDARR
