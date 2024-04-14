@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Research
-permalink: /research/
-description: A growing collection of your cool projects.
+permalink: /projects/
+description: In my research, mathematics is not only the primary tool but also its central focus. In my opinion, good mathematics should naturally emerge from extensive production practice and abstract thinking, and has the power of reforming existing objects in mathematics, science and engineering. I am always trying to balance the theoretical rigor and practicality of mathematical concepts and methods. Some of my previous and ongoing research projects are listed as follows.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
