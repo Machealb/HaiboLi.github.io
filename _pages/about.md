@@ -14,7 +14,7 @@ profile:
     <p> Melbourne, Victoria 3010 Australia </p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -32,7 +32,7 @@ My research interests include:
   
 Many other topics are also related to my research, such as numerical optimization, numerical PDEs, and statistical learning.
 
-# Academic Experience
+## Academic Experience
 - Research Fellow, School of Mathematics and Statistics, The University of Melbourne, Sep. 2023 – present
 - Postdoc, Institute of Computing Technology, Chinese Academy of Sciences, Aug. 2021 -  Aug. 2023
 - Ph.D. in Computational Mathematics, Department of Mathematical Sciences, Tsinghua University, Sep. 2015 – Jun. 2021
