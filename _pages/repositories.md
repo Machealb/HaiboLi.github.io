@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Codes
+title: Repositories
 description: Some codes related to my research can be found in the Github.
 nav: true
 nav_order: 3
