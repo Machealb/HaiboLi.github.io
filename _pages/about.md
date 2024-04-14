@@ -20,12 +20,10 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my website!
 
-I am currenly a Research Fellow in Applied Mathematics at The University of Melbourne. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a research associate in Statistics at the [School of Mathematics and Statistics][MathsStats] at the [University of Glasgow][UoG], working with [Dirk Husmeier][DirkHusmeier] on computer-intensive statistical inference in soft-tissue mechanical models based on partial differential equations. My current post is within the EPSRC funded [Closed-Loop Data Science][CLDS] centre, where I work on incorporating feedback effects into healthcare prognostication systems. My previous position at Glasgow was within [SofTMech][SofTMech], an EPSRC centre for Multiscale Soft Tissue Mechanics with applications to heart and cancer.
 
-
-- 
+ 
 ## Research interests:
 My research interests center around utilizing mathematical modeling and computational techniques to address challenging problems arising from scientific computing, matrix computation and data science. These topics include:
 - Inverse problems, regularization
