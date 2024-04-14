@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Haibo Li
-middle_name: Li 
+# middle_name: Li 
 last_name: (李海波)
 email: haibo.li@unimelb.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -67,9 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: Machealb # your GitHub user name
 orcid_id: https://orcid.org/0000-0003-0437-7617 # your ORCID ID
 research_gate_profile: https://www.researchgate.net/profile/Haibo-Li-22 # your profile on ResearchGate
-scholar_userid: https://scholar.google.com.au/citations?user=f8TtK7EAAAAJ&hl=zh-CN # your Google Scholar ID
-
-
+scholar_userid: https://scholar.google.com/citations?user=f8TtK7EAAAAJ&hl=en # your Google Scholar ID
 
 facebook_id: # your facebook id
 ieee_id: # your ieeexplore.ieee.org/author/id
@@ -118,8 +116,10 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Haibo's notes
-blog_description: Some notes about ideas I find interestin/
+blog_name: Haibo's blog
+blog_description: We must know. We shall know.  --- by David Hilbert
+
+
 
 # Pagination
 pagination:
