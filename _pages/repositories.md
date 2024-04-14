@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Codes
 description: Some codes related to my research can be found in the Github.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 ## GitHub users
