@@ -20,9 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my website! I am Haibo Li, working on applied and computational mathematics. I am currently a Research Fellow in [School of Mathematics and Statistics](https://ms.unimelb.edu.au) at [The University of Melbourne](https://www.unimelb.edu.au/).
 
-My research centers around utilizing mathematical modeling and computational techniques to address challenging problems arising from scientific computing, matrix computation and data science. 
+My research centers around utilizing mathematical modeling and computational techniques to address challenging problems arising from scientific computing, matrix computation and data science. I am always looking to collaborate with researchers from mathematics, statistics, artificial intelligence, high performance computing and etc. 
 
-I am always looking to collaborate with researchers from mathematics, statistics, artificial intelligence, high performance computing and etc. You are very welcome to contact me to discuss topics related to mathematics. You can reach out to me by [haibo.li@unimel.edu.au] or my personal email [haibolee1729@gmail.com]
+You are very welcome to contact me to discuss topics related to mathematics. You can reach out to me by haibo.li@unimel.edu.au or my personal email haibolee1729@gmail.com.
  
 ## Research Interests
 My research interests include:
@@ -32,7 +32,11 @@ My research interests include:
   
 Many other topics are also related to my research, such as numerical optimization, numerical PDEs, and statistical learning.
 
-
+# Academic Experience
+- Research Fellow, School of Mathematics and Statistics, The University of Melbourne, Sep. 2023 – present
+- Postdoc, Institute of Computing Technology, Chinese Academy of Sciences, Aug. 2021 -  Aug. 2023
+- Ph.D. in Computational Mathematics, Department of Mathematical Sciences, Tsinghua University, Sep. 2015 – Jun. 2021
+- B.S. in Mathematics, Taishan College, Shandong University, Sep. 2011 – Jun. 2015
 
 
 
