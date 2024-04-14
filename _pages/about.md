@@ -22,7 +22,7 @@ Welcome to my website! I am Haibo Li, working on applied and computational mathe
 
 My research centers around utilizing mathematical modeling and computational techniques to address challenging problems arising from scientific computing, matrix computation and data science. I am always looking to collaborate with researchers from mathematics, statistics, artificial intelligence, high performance computing and etc. 
 
-You are very welcome to contact me to discuss topics related to mathematics. Please reach out to me by haibo.li@unimelb.edu.au or my personal email haibolee1729@gmail.com.
+You are very welcome to contact me to discuss topics related to mathematics. Please reach out to me by [haibo.li@unimelb.edu.au](haibo.li@unimelb.edu.au) or my personal email [haibolee1729@gmail.com](haibolee1729@gmail.com).
  
 ## Research Interests
 My research interests include:
