@@ -24,7 +24,7 @@ My research centers around utilizing mathematical modeling and computational tec
 
 You are very welcome to contact me to discuss topics related to mathematics. Please reach out to me by [haibo.li@unimelb.edu.au](haibo.li@unimelb.edu.au) or my personal email [haibolee1729@gmail.com](haibolee1729@gmail.com).
  
-## Research Interests
+### Research Interests
 My research interests include:
 - Inverse problems, regularization
 - Numerical linear algebra, Matrix analysis and computation
@@ -32,7 +32,7 @@ My research interests include:
   
 Many other topics are also related to my research, such as numerical optimization, numerical PDEs, and statistical learning.
 
-## Academic Experience
+### Academic Experience
 - Research Fellow, School of Mathematics and Statistics, The University of Melbourne, Sep. 2023 – present
 - Postdoc, Institute of Computing Technology, Chinese Academy of Sciences, Aug. 2021 -  Aug. 2023
 - Ph.D. in Computational Mathematics, Department of Mathematical Sciences, Tsinghua University, Sep. 2015 – Jun. 2021
