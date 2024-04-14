@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> G82, Peter Hall Building (160) </p>
+    <p> G82, Peter Hall Building </p>
     <p> Swanston Street </p>
     <p> Melbourne, Victoria 3010 Australia </p>
 
@@ -20,15 +20,15 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my website!
 
-
-I am a research associate in Statistics at the [School of Mathematics and Statistics][MathsStats] at the [University of Glasgow][UoG], working with [Dirk Husmeier][DirkHusmeier] on computer-intensive statistical inference in soft-tissue mechanical models based on partial differential equations. My current post is within the EPSRC funded [Closed-Loop Data Science][CLDS] centre, where I work on incorporating feedback effects into healthcare prognostication systems. My previous position at Glasgow was within [SofTMech][SofTMech], an EPSRC centre for Multiscale Soft Tissue Mechanics with applications to heart and cancer.
-
+I am currently a Research Fellow in applied mathematics at [School of Mathematics and Statistics](https://ms.unimelb.edu.au), [The University of Melbourne](https://www.unimelb.edu.au/). My research centers around utilizing mathematical modeling and computational techniques to address challenging problems arising from scientific computing, matrix computation and data science. Mathematics is the main tool in my My work is highly interdisciplinary. I am always looking to collaborate with researchers from mathematics, statistics, artificial intelligence, high performance computing and etc.
  
 ## Research interests:
-My research interests center around utilizing mathematical modeling and computational techniques to address challenging problems arising from scientific computing, matrix computation and data science. These topics include:
+My research interests include:
 - Inverse problems, regularization
 - Numerical linear algebra, Matrix analysis and computation
 - Scientific machine learning, kernel method
+
+Many other topics are also related to my research, such as numerical optimization, numerical PDEs, and statistical learning.
 
 ## Academic Experience
 - Research Fellow, School of Mathematics and Statistics, The University of Melbourne, Sep. 2023 – present
