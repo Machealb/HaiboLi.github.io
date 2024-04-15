@@ -33,7 +33,7 @@ My research interests include:
 Many other topics are also related to my research, such as numerical optimization, numerical PDEs, and statistical learning.
 
 ### Open Source
-Some codes related to my research can be found in my [Github repositories]{https://github.com/Machealb}. 
+Some codes related to my research can be found in my [Github repositories](https://github.com/Machealb). 
 {% if site.data.repositories.github_users %}
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
