@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! I am Haibo Li, working on applied and computational mathematics. I am currently a Research Fellow in [School of Mathematics and Statistics](https://ms.unimelb.edu.au) at [The University of Melbourne](https://www.unimelb.edu.au/). I completed my Ph.D. in Mathematics at [Tsinghua Univeristy](https://www.tsinghua.edu.cn/en/), China, in 2021. My full CV can be found <a class="page-link" href="{{ '../cv/CV_haibo.pdf' | prepend: site.baseurl | prepend: site.url }}">here</a>  
+Welcome to my website! I am Haibo Li, working on applied and computational mathematics. I am currently a Research Fellow in [School of Mathematics and Statistics](https://ms.unimelb.edu.au) at [The University of Melbourne](https://www.unimelb.edu.au/). I completed my Ph.D. in Mathematics at [Tsinghua Univeristy](https://www.tsinghua.edu.cn/en/), China, in 2021. My full CV can be found <a class="page-link" href="{{ '/cv_haibo.pdf' | prepend: site.baseurl | prepend: site.url }}">here</a>  
 
 My research centers around utilizing mathematical modeling and computational techniques to address challenging problems arising from scientific computing, matrix computation and data science. I am always looking to collaborate with researchers from mathematics, statistics, artificial intelligence, high performance computing and etc. 
 
