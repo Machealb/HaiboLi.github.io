@@ -34,13 +34,7 @@ Many other topics are also related to my research, such as numerical optimizatio
 
 ### Open Source
 Some codes related to my research can be found in my [Github repositories](https://github.com/Machealb). 
-{% if site.data.repositories.github_users %}
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
 
 
 
